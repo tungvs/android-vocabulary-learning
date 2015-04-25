@@ -1,0 +1,1 @@
+An android application to help Chinese students to learn English vocabulary
